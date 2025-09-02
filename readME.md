@@ -24,13 +24,21 @@ Estrutura do projeto
 
 
 ├── data/
+
 │   ├── raw/                      # dados brutos
+
 │   └── processed/                # dados tratados
+
 ├── models/                       # modelos salvos em pkl
+
 ├── src/
+
 │   ├── pproductions_eda_modelo.ipynb    # script de eda/modelagem 
+
 │   └── get_data.py                  # script que pega dados da api 
+
 ├── requirements.txt              # dependências
+
 └── README.md
 
 # Instalação e Requisitos
