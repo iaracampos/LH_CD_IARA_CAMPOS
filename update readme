@@ -1,6 +1,6 @@
 # 🎬 Projeto de Previsão de Ratings IMDB
 
-Este projeto analisa dados de produções cinematográficas (filmes, séries, espetáculos) e utiliza **Machine Learning** para prever as pontuações do IMDB.  
+Este projeto analisa dados de produções cinematográficas e utiliza **Machine Learning** para prever as pontuações do IMDB.  
 
 Foram testados três modelos principais:  
 - **DecisionTreeRegressor** (Árvore de Decisão)  
