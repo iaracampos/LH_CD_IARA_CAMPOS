@@ -7,7 +7,7 @@ Foram testados três modelos principais:
 - **TF-IDF + Regressão Linear** (para dados textuais)  
 - **LGBMRegressor** (LightGBM - Gradient Boosting)  
 
-O **LightGBM** é o modelo final, usado para fazer a previsão de rating 
+➡️ O **LightGBM** é o modelo final, usado para realizar as previsões de rating.  
 
 ---
 
@@ -18,11 +18,12 @@ O **LightGBM** é o modelo final, usado para fazer a previsão de rating
 - **MAE**: 0.0768  
 - **R²**: 0.8009  
 
-O modelo explica cerca de **80% da variância** das notas IMDB, com erros baixos, demonstrando ótima capacidade preditiva.  
+📌 O modelo explica cerca de **80% da variância** das notas IMDB, com erros baixos, demonstrando excelente capacidade preditiva.  
 
-Estrutura do projeto
+---
 
-projeto-imdb/
+## 📂 Estrutura do Projeto
+
 ├── data/
 │   ├── raw/                      # dados brutos
 │   └── processed/                # dados tratados
@@ -34,6 +35,8 @@ projeto-imdb/
 └── README.md
 
 # Instalação e Requisitos
+
 Crie um ambiente virtual e instale as dependências com:  
 ```bash
 pip install -r requirements.txt
+
