@@ -27,9 +27,14 @@ Estrutura do projeto
 
 │   ├── raw/                      # dados brutos
 
-│   └── processed/                # dados tratados
+
 
 ├── models/                       # modelos salvos em pkl
+
+│   └── processed/                # dados tratados
+
+
+├── reports /    # o relatorio tecnico esta aqui   
 
 ├── src/
 
